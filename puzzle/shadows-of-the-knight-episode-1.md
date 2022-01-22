@@ -44,7 +44,7 @@ A single line with 2 integers X Y separated by a space character. (X, Y) represe
 > Response time per turn ≤ 150ms  
 > Response time per turn ≤ 150ms  
 ### Example (from origin)
-![Example]()
+![Example](https://github.com/jeefies/codingame-solutions/raw/master/puzzle/Shadows-of-the-Knight-Episode-1-example.png)
 
 # Solution
 I use bisection method (resource from baike.baidu.com), or dichotomy (translated by Google)
@@ -86,4 +86,4 @@ I use bisection method (resource from baike.baidu.com), or dichotomy (translated
 > Response time per turn ≤ 150ms  
 > Response time per turn ≤ 150ms  
 ### 示范
-![Example]()
+![Example](https://github.com/jeefies/codingame-solutions/raw/master/puzzle/Shadows-of-the-Knight-Episode-1-example.png)
