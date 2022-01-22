@@ -47,7 +47,8 @@ A single line with 2 integers X Y separated by a space character. (X, Y) represe
 ![Example](https://github.com/jeefies/codingame-solutions/raw/master/puzzle/Shadows-of-the-Knight-Episode-1-example.png)
 
 # Solution
-I use bisection method (resource from baike.baidu.com), or dichotomy (translated by Google)
+I use bisection method (resource from baike.baidu.com), or dichotomy (translated by Google)  
+In [www.codingame.com](www.codingame.com), it maybe is called [binary search](https://www.codingame.com/learn/binary-search), also known as half-interval search or logarithmic search (from codingame page, it says it's from wikipedia...).
 
 # 游戏内容
 ## 目标
@@ -86,4 +87,7 @@ I use bisection method (resource from baike.baidu.com), or dichotomy (translated
 > Response time per turn ≤ 150ms  
 > Response time per turn ≤ 150ms  
 ### 示范
-![Example](https://github.com/jeefies/codingame-solutions/raw/master/puzzle/Shadows-of-the-Knight-Episode-1-example.png)
+![Example](https://gitee.com/jeefy/codingame-solutions/raw/master/puzzle/Shadows-of-the-Knight-Episode-1-example.png)
+
+# 解决方法
+二分法，我无需多言
