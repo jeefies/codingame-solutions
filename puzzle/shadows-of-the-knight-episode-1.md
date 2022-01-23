@@ -43,7 +43,7 @@ A single line with 2 integers X Y separated by a space character. (X, Y) represe
 > 0 ≤ Y, Y0 < H  
 > Response time per turn ≤ 150ms  
 > Response time per turn ≤ 150ms  
-### Example (from origin)
+## Example (from origin)
 ![Example](https://github.com/jeefies/codingame-solutions/raw/master/puzzle/Shadows-of-the-Knight-Episode-1-example.png)
 
 # Solution
@@ -86,7 +86,7 @@ In [www.codingame.com](www.codingame.com), it maybe is called [binary search](ht
 > 0 ≤ Y, Y0 < H  
 > Response time per turn ≤ 150ms  
 > Response time per turn ≤ 150ms  
-### 示范
+## 示范
 ![Example](https://gitee.com/jeefy/codingame-solutions/raw/master/puzzle/Shadows-of-the-Knight-Episode-1-example.png)
 
 # 解决方法
